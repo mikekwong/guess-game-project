@@ -1,1 +1,18 @@
-/* Write your CSS code in this file */
+* {
+  text-align: center;
+}
+
+div button {
+  margin: 50px 0;
+}
+
+h1 {
+  margin: 200px 0 0 0;
+  font: 4rem "M PLUS Rounded 1c, Helvetica", sans-serif;
+  color: black;
+}
+
+h6 {
+  font: 2rem "M PLUS Rounded 1c, Helvetica", sans-serif;
+  color: red;
+}
