@@ -27,3 +27,17 @@ const shuffle = array => {
   }
   return array;
 };
+
+class Game {
+  constructor() {}
+  playersGuess() {}
+  pastGuesses() {
+    return [];
+  }
+  winningNumber() {
+    generateWinningNumber();
+  }
+}
+
+// let game = new Game();
+// console.log(game.pastGuesses.length);
